@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Zhou Chenyu</a></h1>
-<h3 align="center">A passionate developer from Shanghai &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://captainjack-ai.github.io/" target="blank">
+<h3 align="center">A passionate developer from Shanghai </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -62,6 +61,4 @@ Zhou Chenyu</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+Last Edited on: 27/05/2025
